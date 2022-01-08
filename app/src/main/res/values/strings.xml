@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DankMemes</string>
+    <string name="yt">YT</string>
+    <string name="facebook">facebook</string>
+    <string name="instagram">instagram</string>
+    <string name="gmail">gmail</string>
+    <string name="minimal">minimal</string>
+</resources>
